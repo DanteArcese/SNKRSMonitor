@@ -67,19 +67,33 @@ class SNKRSMonitor:
             else result["priceValue"]
         )
 
-        result["launchDate"] = int(
-            datetime.fromisoformat(
-                product["productInfo"][0]["launchView"]["startEntryDate"].replace(
-                    "Z", "+00:00"
-                )
-            ).timestamp()
-        )
+        try:
+            result["launchDate"] = int(
+                datetime.fromisoformat(
+                    product["productInfo"][0]["launchView"]["startEntryDate"].replace(
+                        "Z", "+00:00"
+                    )
+                ).timestamp()
+            )
+        except KeyError:
+            result["launchDate"] = int(
+                datetime.fromisoformat(
+                    product["productInfo"][0]["merchProduct"][
+                        "commerceStartDate"
+                    ].replace("Z", "+00:00")
+                ).timestamp()
+            )
 
         result["sku"] = product["productInfo"][0]["merchProduct"]["styleColor"]
 
         result["status"] = product["productInfo"][0]["merchProduct"]["status"]
 
-        result["releaseMethod"] = product["productInfo"][0]["launchView"]["method"]
+        try:
+            result["releaseMethod"] = product["productInfo"][0]["launchView"]["method"]
+        except KeyError:
+            result["releaseMethod"] = product["productInfo"][0]["merchProduct"][
+                "publishType"
+            ]
 
         result["cartLimit"] = product["productInfo"][0]["merchProduct"]["quantityLimit"]
 
