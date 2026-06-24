@@ -101,9 +101,18 @@ class SNKRSMonitor:
             "exclusiveAccess"
         ]
 
-        result["imageURL"] = product["publishedContent"]["nodes"][0]["nodes"][0][
-            "properties"
-        ]["squarishURL"]
+        try:
+            node_properties = product["publishedContent"]["nodes"][0]["nodes"][0][
+                "properties"
+            ]
+        except KeyError:
+            node_properties = product["publishedContent"]["nodes"][0]["properties"]
+
+        result["imageURL"] = (
+            node_properties["squarishURL"]
+            or node_properties["portraitURL"]
+            or node_properties["landscapeURL"]
+        )
 
         stock_levels = {
             gtin["gtin"]: gtin["level"]
