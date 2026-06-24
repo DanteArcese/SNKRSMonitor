@@ -78,19 +78,19 @@ def main():
                     total_skus_updated += skus_updated
             updated_product_ids = []
             if products_updated:
-                updated_product_ids.extend([product['productId'] for product in db.get_updated_records('products', loop_start)])
+                updated_product_ids.extend([product["productId"] for product in db.get_updated_records("products", loop_start)])
             if skus_updated:
-                updated_product_ids.extend(list(set([sku['productId'] for sku in db.get_updated_records('skus', loop_start) if sku['productId'] not in updated_product_ids])))
+                updated_product_ids.extend(list(set([sku["productId"] for sku in db.get_updated_records("skus", loop_start) if sku["productId"] not in updated_product_ids])))
             for product in products:
-                if product['productId'] in updated_product_ids:
-                    discord_message_id = db.get_discord_message_id(product['productId'])["discordMessageId"]
+                if product["productId"] in updated_product_ids:
+                    discord_message_id = db.get_discord_message_id(product["productId"])["discordMessageId"]
                     new_discord_message_id = dc.send_webhook(product, discord_message_id)
                     if new_discord_message_id:
-                        logger.info(f"Sent message for {product['title']}.")
+                        logger.info(f"Sent message for {product["title"]}.")
                     else:
-                        logger.error(f"Unable to {"edit" if discord_message_id else "send"} message for {product['title']}.")
+                        logger.error(f"Unable to {"edit" if discord_message_id else "send"} message for {product["title"]}.")
                     if not discord_message_id:
-                        update_count = db.update_discord_message_id(product['productId'], new_discord_message_id)
+                        update_count = db.update_discord_message_id(product["productId"], new_discord_message_id)
                         if update_count:
                             logger.info(f"Discord message ID stored in DB for {product["title"]}.")
                         else:
@@ -98,7 +98,7 @@ def main():
             for product in db.get_old_products(loop_start):
                 if dc.delete_message(product["discordMessageId"]):
                     logger.info(f"Discord message deleted for {product["title"]}.")
-                    update_count = db.update_discord_message_id(product['productId'], None)
+                    update_count = db.update_discord_message_id(product["productId"], None)
                     if update_count:
                         logger.info(f"Discord message ID removed from DB for {product["title"]}.")
                     else:

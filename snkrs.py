@@ -51,18 +51,18 @@ class SNKRSMonitor:
             "title"
         ]
         result["title"] = (
-            f"{result['titleName']} - {result['titleVariant']}"
+            f"{result["titleName"]} - {result["titleVariant"]}"
             if result["titleVariant"]
             else result["titleName"]
         )
 
         result["slug"] = product["publishedContent"]["properties"]["seo"]["slug"]
-        result["url"] = f"https://www.nike.com/launch/t/{result['slug']}"
+        result["url"] = f"https://www.nike.com/launch/t/{result["slug"]}"
 
         result["priceValue"] = product["productInfo"][0]["merchPrice"]["currentPrice"]
         result["priceCurrency"] = product["productInfo"][0]["merchPrice"]["currency"]
         result["price"] = (
-            f"${result['priceValue']} {result['priceCurrency']}"
+            f"${result["priceValue"]} {result["priceCurrency"]}"
             if result["priceCurrency"]
             else result["priceValue"]
         )
