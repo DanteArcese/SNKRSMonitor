@@ -64,7 +64,7 @@ def main():
     )
     try:
         while True:
-            loop_start = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S")
+            loop_start = int(datetime.now(timezone.utc).timestamp())
             products = monitor.get_products()
             logger.info(f"Fetched {len(products)} product{"s" if len(products) != 1 else ""}.")
             products_updated = db.upsert_products(products)
@@ -95,6 +95,14 @@ def main():
                             logger.info(f"Discord message ID stored in DB for {product["title"]}.")
                         else:
                             logger.error(f"Unable to store Discord message ID in DB for {product["title"]}.")
+            for product in db.get_old_products(loop_start):
+                if dc.delete_message(product["discordMessageId"]):
+                    logger.info(f"Discord message deleted for {product["title"]}.")
+                    update_count = db.update_discord_message_id(product['productId'], None)
+                    if update_count:
+                        logger.info(f"Discord message ID removed from DB for {product["title"]}.")
+                    else:
+                        logger.error(f"Unable to remove Discord message ID in DB for {product["title"]}.")
             logger.debug(
                 f"Sleeping for {polling_interval_seconds} seconds before next run."
             )

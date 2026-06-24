@@ -77,3 +77,7 @@ class DiscordHandler:
             return self.webhook.send(
                 embeds=[self.format_product(product)], wait=True
             ).id
+
+    def delete_message(self, discord_message_id):
+        self.webhook.delete_message(discord_message_id)
+        return True

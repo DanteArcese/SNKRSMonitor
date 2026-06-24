@@ -111,6 +111,21 @@ class DBHandler:
             )
             return cursor.fetchall()
 
+    def get_old_products(self, max_launch_date):
+        sql_query = f"""
+            SELECT * FROM products
+            WHERE launchDate < ?
+                AND discordMessageId IS NOT NULL;
+        """
+        with self.get_connection() as conn:
+            cursor = conn.cursor()
+
+            cursor.execute(
+                sql_query,
+                (max_launch_date,),
+            )
+            return cursor.fetchall()
+
     def get_discord_message_id(self, product_id):
         sql_query = f"""
             SELECT * FROM products
