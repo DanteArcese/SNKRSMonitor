@@ -1,0 +1,1799 @@
+{
+    "id": "41ed982b-f0cf-4d28-a9a2-d1ccbd76dfd3",
+    "channelId": "010794e5-35fe-4e32-aaff-cd2c74f89d61",
+    "channelName": "SNKRS Web",
+    "marketplace": "US",
+    "language": "en",
+    "lastFetchTime": "2026-06-29T22:32:24.577Z",
+    "publishedContent": {
+        "preview": false,
+        "externalReferences": [
+            {
+                "resource": "execution",
+                "domain": "control_plane",
+                "id": "144c4521-e8ae-4c26-8678-c624d128d08f"
+            }
+        ],
+        "marketplace": "US",
+        "collectionGroupId": "010794e5-35fe-4e32-aaff-cd2c74f89d61",
+        "createdDateTime": "2026-06-29T22:30:52.849Z",
+        "language": "en",
+        "viewStartDate": "2026-06-26T22:00:00.000Z",
+        "type": "thread",
+        "version": "1782772221361",
+        "analytics": {
+            "hashKey": "c2785ab7d11af72190fafbb9fa367564f759313dd9f49e92c0a1ed8eb3ece792"
+        },
+        "nodes": [
+            {
+                "analytics": {
+                    "hashKey": "c207db2350979f8d128d1a447f90c25c17d8186a800449e5a290a147d5180bf4"
+                },
+                "nodes": [
+                    {
+                        "analytics": {
+                            "hashKey": "6a70cce4fb2877d2005e04b75b882cfd4af46f3c2e26cf18e32c5a3612fce2c5"
+                        },
+                        "subType": "image",
+                        "id": "ad46f922-db17-4940-bb0b-c576c177caa1",
+                        "type": "card",
+                        "version": "1782757421056",
+                        "properties": {
+                            "portraitId": "",
+                            "squarishURL": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit/a02abc51-e743-4808-ba6c-01580ac9fe00/air-max-95-big-bubble-sport-green-and-safety-orange-ir1944-102-release-date.jpg",
+                            "product": [],
+                            "landscapeId": "",
+                            "altText": "Air Max 95 Big Bubble 'Sport Green and Safety Orange' (IR1944-102) Release Date",
+                            "fallbacks": [],
+                            "portraitURL": "https://static.nike.com/a/images/t_prod_ps/w_1536,c_limit/a02abc51-e743-4808-ba6c-01580ac9fe00/air-max-95-big-bubble-sport-green-and-safety-orange-ir1944-102-release-date.jpg",
+                            "custom": {},
+                            "landscapeURL": "https://static.nike.com/a/images/t_prod_ls/w_1920,c_limit/a02abc51-e743-4808-ba6c-01580ac9fe00/air-max-95-big-bubble-sport-green-and-safety-orange-ir1944-102-release-date.jpg",
+                            "portrait": {
+                                "view": "A",
+                                "id": "a02abc51-e743-4808-ba6c-01580ac9fe00",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_ps/w_1536,c_limit/a02abc51-e743-4808-ba6c-01580ac9fe00/air-max-95-big-bubble-sport-green-and-safety-orange-ir1944-102-release-date.jpg"
+                            },
+                            "squarish": {
+                                "view": "A",
+                                "id": "a02abc51-e743-4808-ba6c-01580ac9fe00",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit/a02abc51-e743-4808-ba6c-01580ac9fe00/air-max-95-big-bubble-sport-green-and-safety-orange-ir1944-102-release-date.jpg"
+                            },
+                            "title": "",
+                            "squarishId": "",
+                            "copyId": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+                            "internalName": "A",
+                            "imageCaption": "",
+                            "richTextLinks": [],
+                            "subtitle": "",
+                            "colorTheme": "dark",
+                            "secondaryPortrait": {
+                                "id": ""
+                            },
+                            "style": {
+                                "defaultStyle": {},
+                                "modifiedDate": "2026-06-29T18:23:40.985Z",
+                                "exposeTemplate": false,
+                                "properties": {
+                                    "actions": {}
+                                },
+                                "resourceType": "content/style"
+                            },
+                            "actions": [],
+                            "landscape": {
+                                "view": "A",
+                                "id": "a02abc51-e743-4808-ba6c-01580ac9fe00",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_ls/w_1920,c_limit/a02abc51-e743-4808-ba6c-01580ac9fe00/air-max-95-big-bubble-sport-green-and-safety-orange-ir1944-102-release-date.jpg"
+                            }
+                        }
+                    },
+                    {
+                        "analytics": {
+                            "hashKey": "c219baaf46b09dbd5dab4a91e154a3a684a348e5e14c8ee63058299954936cc2"
+                        },
+                        "subType": "image",
+                        "id": "3c3d26de-94d2-4833-8441-3ff555dec009",
+                        "type": "card",
+                        "version": "1782757427051",
+                        "properties": {
+                            "portraitId": "",
+                            "squarishURL": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit/4c0e16b4-4193-4c76-b7aa-09f09643133b/air-max-95-big-bubble-sport-green-and-safety-orange-ir1944-102-release-date.jpg",
+                            "product": [],
+                            "landscapeId": "",
+                            "altText": "Air Max 95 Big Bubble 'Sport Green and Safety Orange' (IR1944-102) Release Date",
+                            "fallbacks": [],
+                            "portraitURL": "https://static.nike.com/a/images/t_prod_ps/w_1536,c_limit/4c0e16b4-4193-4c76-b7aa-09f09643133b/air-max-95-big-bubble-sport-green-and-safety-orange-ir1944-102-release-date.jpg",
+                            "custom": {},
+                            "landscapeURL": "https://static.nike.com/a/images/t_prod_ls/w_1920,c_limit/4c0e16b4-4193-4c76-b7aa-09f09643133b/air-max-95-big-bubble-sport-green-and-safety-orange-ir1944-102-release-date.jpg",
+                            "portrait": {
+                                "view": "B",
+                                "id": "4c0e16b4-4193-4c76-b7aa-09f09643133b",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_ps/w_1536,c_limit/4c0e16b4-4193-4c76-b7aa-09f09643133b/air-max-95-big-bubble-sport-green-and-safety-orange-ir1944-102-release-date.jpg"
+                            },
+                            "squarish": {
+                                "view": "B",
+                                "id": "4c0e16b4-4193-4c76-b7aa-09f09643133b",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit/4c0e16b4-4193-4c76-b7aa-09f09643133b/air-max-95-big-bubble-sport-green-and-safety-orange-ir1944-102-release-date.jpg"
+                            },
+                            "title": "",
+                            "squarishId": "",
+                            "copyId": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+                            "internalName": "B",
+                            "imageCaption": "",
+                            "richTextLinks": [],
+                            "subtitle": "",
+                            "colorTheme": "dark",
+                            "secondaryPortrait": {
+                                "id": ""
+                            },
+                            "style": {
+                                "defaultStyle": {},
+                                "modifiedDate": "2026-06-29T18:23:46.988Z",
+                                "exposeTemplate": false,
+                                "properties": {
+                                    "actions": {}
+                                },
+                                "resourceType": "content/style"
+                            },
+                            "actions": [],
+                            "landscape": {
+                                "view": "B",
+                                "id": "4c0e16b4-4193-4c76-b7aa-09f09643133b",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_ls/w_1920,c_limit/4c0e16b4-4193-4c76-b7aa-09f09643133b/air-max-95-big-bubble-sport-green-and-safety-orange-ir1944-102-release-date.jpg"
+                            }
+                        }
+                    },
+                    {
+                        "analytics": {
+                            "hashKey": "9bf365aa08147426f619cd51897121c247784cb336cc3936af5de21962e25ac5"
+                        },
+                        "subType": "image",
+                        "id": "c76fd067-912b-44f2-a405-242cf0c51ed0",
+                        "type": "card",
+                        "version": "1782757436149",
+                        "properties": {
+                            "portraitId": "",
+                            "squarishURL": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit/f3970cf3-5a13-4124-a9b2-48abb985bc28/air-max-95-big-bubble-sport-green-and-safety-orange-ir1944-102-release-date.jpg",
+                            "product": [],
+                            "landscapeId": "",
+                            "altText": "Air Max 95 Big Bubble 'Sport Green and Safety Orange' (IR1944-102) Release Date",
+                            "fallbacks": [],
+                            "portraitURL": "https://static.nike.com/a/images/t_prod_ps/w_1536,c_limit/f3970cf3-5a13-4124-a9b2-48abb985bc28/air-max-95-big-bubble-sport-green-and-safety-orange-ir1944-102-release-date.jpg",
+                            "custom": {},
+                            "landscapeURL": "https://static.nike.com/a/images/t_prod_ls/w_1920,c_limit/f3970cf3-5a13-4124-a9b2-48abb985bc28/air-max-95-big-bubble-sport-green-and-safety-orange-ir1944-102-release-date.jpg",
+                            "portrait": {
+                                "view": "C",
+                                "id": "f3970cf3-5a13-4124-a9b2-48abb985bc28",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_ps/w_1536,c_limit/f3970cf3-5a13-4124-a9b2-48abb985bc28/air-max-95-big-bubble-sport-green-and-safety-orange-ir1944-102-release-date.jpg"
+                            },
+                            "squarish": {
+                                "view": "C",
+                                "id": "f3970cf3-5a13-4124-a9b2-48abb985bc28",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit/f3970cf3-5a13-4124-a9b2-48abb985bc28/air-max-95-big-bubble-sport-green-and-safety-orange-ir1944-102-release-date.jpg"
+                            },
+                            "title": "",
+                            "squarishId": "",
+                            "copyId": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+                            "internalName": "C",
+                            "imageCaption": "",
+                            "richTextLinks": [],
+                            "subtitle": "",
+                            "colorTheme": "dark",
+                            "secondaryPortrait": {
+                                "id": ""
+                            },
+                            "style": {
+                                "defaultStyle": {},
+                                "modifiedDate": "2026-06-29T18:23:56.073Z",
+                                "exposeTemplate": false,
+                                "properties": {
+                                    "actions": {}
+                                },
+                                "resourceType": "content/style"
+                            },
+                            "actions": [],
+                            "landscape": {
+                                "view": "C",
+                                "id": "f3970cf3-5a13-4124-a9b2-48abb985bc28",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_ls/w_1920,c_limit/f3970cf3-5a13-4124-a9b2-48abb985bc28/air-max-95-big-bubble-sport-green-and-safety-orange-ir1944-102-release-date.jpg"
+                            }
+                        }
+                    },
+                    {
+                        "analytics": {
+                            "hashKey": "6685a9169ad91f91a63b358d3aec5791a90b71d38ddacc2aad0bb036139b5e7d"
+                        },
+                        "subType": "image",
+                        "id": "0e0422a7-01d0-4b0b-b0f6-80217fcb342a",
+                        "type": "card",
+                        "version": "1782757442769",
+                        "properties": {
+                            "portraitId": "",
+                            "squarishURL": "https://static.nike.com/a/images/t_prod_sc/w_960,c_limit/b1af4dd0-fab6-44a8-84ca-9a0d6546661c/air-max-95-big-bubble-sport-green-and-safety-orange-ir1944-102-release-date.jpg",
+                            "product": [],
+                            "landscapeId": "",
+                            "altText": "Air Max 95 Big Bubble 'Sport Green and Safety Orange' (IR1944-102) Release Date",
+                            "fallbacks": [],
+                            "portraitURL": "https://static.nike.com/a/images/t_prod_pc/w_1536,c_limit/b1af4dd0-fab6-44a8-84ca-9a0d6546661c/air-max-95-big-bubble-sport-green-and-safety-orange-ir1944-102-release-date.jpg",
+                            "custom": {},
+                            "landscapeURL": "https://static.nike.com/a/images/t_prod_lc/w_1920,c_limit/b1af4dd0-fab6-44a8-84ca-9a0d6546661c/air-max-95-big-bubble-sport-green-and-safety-orange-ir1944-102-release-date.jpg",
+                            "portrait": {
+                                "view": "D",
+                                "id": "b1af4dd0-fab6-44a8-84ca-9a0d6546661c",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_pc/w_1536,c_limit/b1af4dd0-fab6-44a8-84ca-9a0d6546661c/air-max-95-big-bubble-sport-green-and-safety-orange-ir1944-102-release-date.jpg"
+                            },
+                            "squarish": {
+                                "view": "D",
+                                "id": "b1af4dd0-fab6-44a8-84ca-9a0d6546661c",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_sc/w_960,c_limit/b1af4dd0-fab6-44a8-84ca-9a0d6546661c/air-max-95-big-bubble-sport-green-and-safety-orange-ir1944-102-release-date.jpg"
+                            },
+                            "title": "",
+                            "squarishId": "",
+                            "copyId": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+                            "internalName": "D",
+                            "imageCaption": "",
+                            "richTextLinks": [],
+                            "subtitle": "",
+                            "colorTheme": "dark",
+                            "secondaryPortrait": {
+                                "id": ""
+                            },
+                            "style": {
+                                "defaultStyle": {},
+                                "modifiedDate": "2026-06-29T18:24:02.686Z",
+                                "exposeTemplate": false,
+                                "properties": {
+                                    "actions": {}
+                                },
+                                "resourceType": "content/style"
+                            },
+                            "actions": [],
+                            "landscape": {
+                                "view": "D",
+                                "id": "b1af4dd0-fab6-44a8-84ca-9a0d6546661c",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_lc/w_1920,c_limit/b1af4dd0-fab6-44a8-84ca-9a0d6546661c/air-max-95-big-bubble-sport-green-and-safety-orange-ir1944-102-release-date.jpg"
+                            }
+                        }
+                    },
+                    {
+                        "analytics": {
+                            "hashKey": "14e5c690c078a2a4115b882b8abfdda394813abf8d46a2a458b45dcf708780d1"
+                        },
+                        "subType": "image",
+                        "id": "61745ec3-1a0e-47ba-9922-1c995f58a3ee",
+                        "type": "card",
+                        "version": "1782757449738",
+                        "properties": {
+                            "portraitId": "",
+                            "squarishURL": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit/63987169-4909-4720-8797-d2cb895ce6cc/air-max-95-big-bubble-sport-green-and-safety-orange-ir1944-102-release-date.jpg",
+                            "product": [],
+                            "landscapeId": "",
+                            "altText": "Air Max 95 Big Bubble 'Sport Green and Safety Orange' (IR1944-102) Release Date",
+                            "fallbacks": [],
+                            "portraitURL": "https://static.nike.com/a/images/t_prod_ps/w_1536,c_limit/63987169-4909-4720-8797-d2cb895ce6cc/air-max-95-big-bubble-sport-green-and-safety-orange-ir1944-102-release-date.jpg",
+                            "custom": {},
+                            "landscapeURL": "https://static.nike.com/a/images/t_prod_ls/w_1920,c_limit/63987169-4909-4720-8797-d2cb895ce6cc/air-max-95-big-bubble-sport-green-and-safety-orange-ir1944-102-release-date.jpg",
+                            "portrait": {
+                                "view": "F",
+                                "id": "63987169-4909-4720-8797-d2cb895ce6cc",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_ps/w_1536,c_limit/63987169-4909-4720-8797-d2cb895ce6cc/air-max-95-big-bubble-sport-green-and-safety-orange-ir1944-102-release-date.jpg"
+                            },
+                            "squarish": {
+                                "view": "F",
+                                "id": "63987169-4909-4720-8797-d2cb895ce6cc",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit/63987169-4909-4720-8797-d2cb895ce6cc/air-max-95-big-bubble-sport-green-and-safety-orange-ir1944-102-release-date.jpg"
+                            },
+                            "title": "",
+                            "squarishId": "",
+                            "copyId": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+                            "internalName": "F",
+                            "imageCaption": "",
+                            "richTextLinks": [],
+                            "subtitle": "",
+                            "colorTheme": "dark",
+                            "secondaryPortrait": {
+                                "id": ""
+                            },
+                            "style": {
+                                "defaultStyle": {},
+                                "modifiedDate": "2026-06-29T18:24:09.677Z",
+                                "exposeTemplate": false,
+                                "properties": {
+                                    "actions": {}
+                                },
+                                "resourceType": "content/style"
+                            },
+                            "actions": [],
+                            "landscape": {
+                                "view": "F",
+                                "id": "63987169-4909-4720-8797-d2cb895ce6cc",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_ls/w_1920,c_limit/63987169-4909-4720-8797-d2cb895ce6cc/air-max-95-big-bubble-sport-green-and-safety-orange-ir1944-102-release-date.jpg"
+                            }
+                        }
+                    },
+                    {
+                        "analytics": {
+                            "hashKey": "6947b4cd26465e02845fca446c34a9f2afd65cd44f35cf8495d0dcdf24753f2d"
+                        },
+                        "subType": "image",
+                        "id": "2d726b81-3479-4d89-b561-90fea4210159",
+                        "type": "card",
+                        "version": "1782757459763",
+                        "properties": {
+                            "portraitId": "",
+                            "squarishURL": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit/9b062fc1-2f12-4797-933d-dd4a6e6bae5e/air-max-95-big-bubble-sport-green-and-safety-orange-ir1944-102-release-date.jpg",
+                            "product": [],
+                            "landscapeId": "",
+                            "altText": "Air Max 95 Big Bubble 'Sport Green and Safety Orange' (IR1944-102) Release Date",
+                            "fallbacks": [],
+                            "portraitURL": "https://static.nike.com/a/images/t_prod_ps/w_1536,c_limit/9b062fc1-2f12-4797-933d-dd4a6e6bae5e/air-max-95-big-bubble-sport-green-and-safety-orange-ir1944-102-release-date.jpg",
+                            "custom": {},
+                            "landscapeURL": "https://static.nike.com/a/images/t_prod_ls/w_1920,c_limit/9b062fc1-2f12-4797-933d-dd4a6e6bae5e/air-max-95-big-bubble-sport-green-and-safety-orange-ir1944-102-release-date.jpg",
+                            "portrait": {
+                                "view": "E",
+                                "id": "9b062fc1-2f12-4797-933d-dd4a6e6bae5e",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_ps/w_1536,c_limit/9b062fc1-2f12-4797-933d-dd4a6e6bae5e/air-max-95-big-bubble-sport-green-and-safety-orange-ir1944-102-release-date.jpg"
+                            },
+                            "squarish": {
+                                "view": "E",
+                                "id": "9b062fc1-2f12-4797-933d-dd4a6e6bae5e",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit/9b062fc1-2f12-4797-933d-dd4a6e6bae5e/air-max-95-big-bubble-sport-green-and-safety-orange-ir1944-102-release-date.jpg"
+                            },
+                            "title": "",
+                            "squarishId": "",
+                            "copyId": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+                            "internalName": "E",
+                            "imageCaption": "",
+                            "richTextLinks": [],
+                            "subtitle": "",
+                            "colorTheme": "dark",
+                            "secondaryPortrait": {
+                                "id": ""
+                            },
+                            "style": {
+                                "defaultStyle": {},
+                                "modifiedDate": "2026-06-29T18:24:19.728Z",
+                                "exposeTemplate": false,
+                                "properties": {
+                                    "actions": {}
+                                },
+                                "resourceType": "content/style"
+                            },
+                            "actions": [],
+                            "landscape": {
+                                "view": "E",
+                                "id": "9b062fc1-2f12-4797-933d-dd4a6e6bae5e",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_ls/w_1920,c_limit/9b062fc1-2f12-4797-933d-dd4a6e6bae5e/air-max-95-big-bubble-sport-green-and-safety-orange-ir1944-102-release-date.jpg"
+                            }
+                        }
+                    }
+                ],
+                "subType": "carousel",
+                "id": "53ce6918-5707-4b17-8908-1d933a279bc4",
+                "type": "card",
+                "version": "1777486887479",
+                "properties": {
+                    "product": [],
+                    "fallbacks": [],
+                    "containerType": "carousel",
+                    "custom": {},
+                    "jsonBody": {
+                        "type": "doc",
+                        "content": [
+                            {
+                                "type": "paragraph",
+                                "content": [
+                                    {
+                                        "text": "Since its debut, the AM95 has been the flyest way to get around, even if you're just strolling down to the corner store for a quick snack.",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "text": "SKU: IR1944-102",
+                                        "type": "text"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "body": "<p>Since its debut, the AM95 has been the flyest way to get around, even if you're just strolling down to the corner store for a quick snack.<br>\nSKU: IR1944-102</p>",
+                    "title": "Sport Green and Safety Orange",
+                    "speed": 6000,
+                    "copyId": "7da7504506a27ec80bc68b9e050e9df641c2f728",
+                    "loop": false,
+                    "richTextLinks": [],
+                    "subtitle": "Air Max 95 Big Bubble",
+                    "colorTheme": "dark",
+                    "style": {
+                        "defaultStyle": {},
+                        "modifiedDate": "2026-04-29T18:21:21.325Z",
+                        "exposeTemplate": false,
+                        "properties": {
+                            "actions": {}
+                        },
+                        "resourceType": "content/style"
+                    },
+                    "autoPlay": false,
+                    "actions": [
+                        {
+                            "analytics": {
+                                "hashKey": "3db1db8c946be15e1e795293dd826e0d2fd6690f69dd33c0a72af0d913ff80c7"
+                            },
+                            "actionType": "cta_buying_tools",
+                            "product": {
+                                "productId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                                "styleColor": "IR1944-102"
+                            },
+                            "destination": {
+                                "product": {
+                                    "productId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                                    "styleColor": "IR1944-102"
+                                },
+                                "type": "BUYING_TOOLS"
+                            },
+                            "id": "b0ca06d0-eeaf-426c-93ef-8b6320d48b04",
+                            "destinationId": "IR1944-102"
+                        }
+                    ]
+                }
+            },
+            {
+                "analytics": {
+                    "hashKey": "352d24614e715348a0f8f1e8a0dd9c3b56ed21508884f29b7555267bd42208b8"
+                },
+                "subType": "image",
+                "id": "3c5b5bbe-9abc-45a9-b662-c0e05592d58f",
+                "type": "card",
+                "version": "1782757480927",
+                "properties": {
+                    "portraitId": "",
+                    "squarishURL": "",
+                    "product": [],
+                    "landscapeId": "",
+                    "altText": "Air Max 95 Big Bubble 'Sport Green and Safety Orange' (IR1944-102) Release Date",
+                    "fallbacks": [],
+                    "portraitURL": "https://static.nike.com/a/images/t_prod/w_1536,c_limit/8de00948-7ef6-437b-a3bf-0883ff017e54/air-max-95-big-bubble-sport-green-and-safety-orange-ir1944-102-release-date.jpg",
+                    "custom": {},
+                    "landscapeURL": "",
+                    "portrait": {
+                        "view": "H",
+                        "id": "8de00948-7ef6-437b-a3bf-0883ff017e54",
+                        "type": "product",
+                        "url": "https://static.nike.com/a/images/t_prod/w_1536,c_limit/8de00948-7ef6-437b-a3bf-0883ff017e54/air-max-95-big-bubble-sport-green-and-safety-orange-ir1944-102-release-date.jpg"
+                    },
+                    "squarish": {
+                        "id": ""
+                    },
+                    "title": "",
+                    "squarishId": "",
+                    "copyId": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+                    "internalName": "H",
+                    "imageCaption": "",
+                    "richTextLinks": [],
+                    "subtitle": "",
+                    "colorTheme": "dark",
+                    "secondaryPortrait": {
+                        "id": ""
+                    },
+                    "style": {
+                        "defaultStyle": {},
+                        "modifiedDate": "2026-06-29T18:24:40.843Z",
+                        "exposeTemplate": false,
+                        "properties": {
+                            "actions": {}
+                        },
+                        "resourceType": "content/style"
+                    },
+                    "actions": [],
+                    "landscape": {
+                        "id": ""
+                    }
+                }
+            },
+            {
+                "analytics": {
+                    "hashKey": "8670b7826ba3b2fb597b3211cca1437fab668774c754813e73b76b1285d8a71f"
+                },
+                "subType": "image",
+                "id": "24ce024a-35eb-412d-80fd-fbf4e7c50967",
+                "type": "card",
+                "version": "1782757496240",
+                "properties": {
+                    "portraitId": "",
+                    "squarishURL": "",
+                    "product": [],
+                    "landscapeId": "",
+                    "altText": "Air Max 95 Big Bubble 'Sport Green and Safety Orange' (IR1944-102) Release Date",
+                    "fallbacks": [],
+                    "portraitURL": "https://static.nike.com/a/images/t_prod/w_1536,c_limit/c63d2086-a259-4bc1-b017-ae0788910bb6/air-max-95-big-bubble-sport-green-and-safety-orange-ir1944-102-release-date.jpg",
+                    "custom": {},
+                    "landscapeURL": "",
+                    "portrait": {
+                        "view": "K",
+                        "id": "c63d2086-a259-4bc1-b017-ae0788910bb6",
+                        "type": "product",
+                        "url": "https://static.nike.com/a/images/t_prod/w_1536,c_limit/c63d2086-a259-4bc1-b017-ae0788910bb6/air-max-95-big-bubble-sport-green-and-safety-orange-ir1944-102-release-date.jpg"
+                    },
+                    "squarish": {
+                        "id": ""
+                    },
+                    "title": "",
+                    "squarishId": "",
+                    "copyId": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+                    "internalName": "K",
+                    "imageCaption": "",
+                    "richTextLinks": [],
+                    "subtitle": "",
+                    "colorTheme": "dark",
+                    "secondaryPortrait": {
+                        "id": ""
+                    },
+                    "style": {
+                        "defaultStyle": {},
+                        "modifiedDate": "2026-06-29T18:24:56.172Z",
+                        "exposeTemplate": false,
+                        "properties": {
+                            "actions": {}
+                        },
+                        "resourceType": "content/style"
+                    },
+                    "actions": [],
+                    "landscape": {
+                        "id": ""
+                    }
+                }
+            },
+            {
+                "analytics": {
+                    "hashKey": "05fb875b0b56ef80bfb5b98e1fd9473a3abfe2eb087e07dcdc3def031ade4937"
+                },
+                "subType": "text",
+                "id": "af0f1baa-e213-41dd-bd9e-1a398d1137a8",
+                "type": "card",
+                "version": "1777486929061",
+                "properties": {
+                    "product": [],
+                    "fallbacks": [],
+                    "custom": {},
+                    "jsonBody": {
+                        "type": "doc",
+                        "content": [
+                            {
+                                "type": "paragraph",
+                                "content": [
+                                    {
+                                        "text": "Remember the revolution. 1987 saw the birth of the Air Max lineage, showcasing visible Air for the first time. What began as an experiment in cushioning soon evolved into an icon on the track and the streets. Over the years, it's been reimagined and retooled, but the heritage always remains.",
+                                        "type": "text"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "body": "<p>Remember the revolution. 1987 saw the birth of the Air Max lineage, showcasing visible Air for the first time. What began as an experiment in cushioning soon evolved into an icon on the track and the streets. Over the years, it's been reimagined and retooled, but the heritage always remains.</p>",
+                    "title": "Heritage",
+                    "copyId": "992f4620d9a3008a092f5ac9dbbde18a1a5baea6",
+                    "internalName": "Air Max Heritage",
+                    "richTextLinks": [],
+                    "subtitle": "Air Max 95 Big Bubble",
+                    "colorTheme": "dark",
+                    "style": {
+                        "defaultStyle": {},
+                        "modifiedDate": "2026-04-29T18:22:08.995Z",
+                        "exposeTemplate": false,
+                        "properties": {
+                            "actions": {}
+                        },
+                        "resourceType": "content/style"
+                    },
+                    "actions": []
+                }
+            }
+        ],
+        "payloadType": "thread",
+        "publishStartDate": "2026-06-26T22:00:00.000Z",
+        "supportedLanguages": [],
+        "publishEndDate": "3000-01-01T00:00:00.000Z",
+        "subType": "thread",
+        "links": {
+            "self": "/content/published/v1/41ed982b-f0cf-4d28-a9a2-d1ccbd76dfd3?collectionGroupId=010794e5-35fe-4e32-aaff-cd2c74f89d61&language=en&marketplace=US"
+        },
+        "id": "41ed982b-f0cf-4d28-a9a2-d1ccbd76dfd3",
+        "properties": {
+            "custom": {
+                "tags": [
+                    "FA23UPCOMINGDROPS"
+                ]
+            },
+            "subtitle": "",
+            "publish": {
+                "collectionGroups": [
+                    "010794e5-35fe-4e32-aaff-cd2c74f89d61",
+                    "008be467-6c78-4079-94f0-70e2d6cc4003"
+                ],
+                "collections": [
+                    "d879aa85-698c-41a1-b066-a8ecdf6b8a9c"
+                ],
+                "countries": [
+                    "IN",
+                    "CN",
+                    "IL",
+                    "FI",
+                    "CH",
+                    "IE",
+                    "ID",
+                    "CA",
+                    "NZ",
+                    "TW",
+                    "TR",
+                    "HU",
+                    "ES",
+                    "KR",
+                    "HR",
+                    "NO",
+                    "NL",
+                    "TH",
+                    "ASTLA",
+                    "ZA",
+                    "BG",
+                    "BE",
+                    "MY",
+                    "MX",
+                    "PT",
+                    "VN",
+                    "AU",
+                    "AT",
+                    "GR",
+                    "JP",
+                    "PL",
+                    "SK",
+                    "SI",
+                    "PH",
+                    "SG",
+                    "DK",
+                    "SE",
+                    "DE",
+                    "GB",
+                    "CAN",
+                    "CZ",
+                    "US",
+                    "LU",
+                    "IT",
+                    "RO",
+                    "FR"
+                ],
+                "pageId": ""
+            },
+            "threadType": "product",
+            "title": "Air Max 95 Big Bubble",
+            "seo": {
+                "keywords": "",
+                "description": "Explore and buy the\u00a0Air Max 95 Big Bubble 'Sport Green and Safety Orange'. Stay a step ahead of the latest sneaker launches and drops.",
+                "doNotIndex": false,
+                "title": "Air Max 95 Big Bubble 'Sport Green and Safety Orange' (IR1944-102) Release Date"
+            },
+            "products": [
+                {
+                    "productId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                    "styleColor": "IR1944-102"
+                }
+            ],
+            "coverCard": {
+                "analytics": {
+                    "hashKey": "7ad3cac274ce1c683dede9bdbeea0a9f009d6e10d6471cc1f70f84b55a80a5c9"
+                },
+                "subType": "image",
+                "id": "b3147dc6-3ad2-4a44-b990-ccb3d8b2350f",
+                "type": "card",
+                "version": "1782757412838",
+                "properties": {
+                    "portraitId": "",
+                    "squarishURL": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit/a02abc51-e743-4808-ba6c-01580ac9fe00/air-max-95-big-bubble-sport-green-and-safety-orange-ir1944-102-release-date.jpg",
+                    "product": [],
+                    "landscapeId": "",
+                    "altText": "Air Max 95 Big Bubble 'Sport Green and Safety Orange' (IR1944-102) Release Date",
+                    "fallbacks": [],
+                    "portraitURL": "https://static.nike.com/a/images/t_prod_ps/w_1536,c_limit/a02abc51-e743-4808-ba6c-01580ac9fe00/air-max-95-big-bubble-sport-green-and-safety-orange-ir1944-102-release-date.jpg",
+                    "custom": {},
+                    "landscapeURL": "https://static.nike.com/a/images/t_prod_ls/w_1920,c_limit/a02abc51-e743-4808-ba6c-01580ac9fe00/air-max-95-big-bubble-sport-green-and-safety-orange-ir1944-102-release-date.jpg",
+                    "portrait": {
+                        "view": "A",
+                        "id": "a02abc51-e743-4808-ba6c-01580ac9fe00",
+                        "type": "product",
+                        "url": "https://static.nike.com/a/images/t_prod_ps/w_1536,c_limit/a02abc51-e743-4808-ba6c-01580ac9fe00/air-max-95-big-bubble-sport-green-and-safety-orange-ir1944-102-release-date.jpg"
+                    },
+                    "squarish": {
+                        "view": "A",
+                        "id": "a02abc51-e743-4808-ba6c-01580ac9fe00",
+                        "type": "product",
+                        "url": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit/a02abc51-e743-4808-ba6c-01580ac9fe00/air-max-95-big-bubble-sport-green-and-safety-orange-ir1944-102-release-date.jpg"
+                    },
+                    "title": "Sport Green and Safety Orange",
+                    "squarishId": "",
+                    "copyId": "3c6ecf219eaa3b0506baefeddc2f6c5a8e527a3e",
+                    "imageCaption": "",
+                    "richTextLinks": [],
+                    "subtitle": "Air Max 95 Big Bubble",
+                    "colorTheme": "dark",
+                    "secondaryPortrait": {
+                        "id": ""
+                    },
+                    "style": {
+                        "defaultStyle": {},
+                        "modifiedDate": "2026-06-29T18:23:32.689Z",
+                        "exposeTemplate": false,
+                        "properties": {
+                            "actions": {}
+                        },
+                        "resourceType": "content/style"
+                    },
+                    "actions": [],
+                    "landscape": {
+                        "view": "A",
+                        "id": "a02abc51-e743-4808-ba6c-01580ac9fe00",
+                        "type": "product",
+                        "url": "https://static.nike.com/a/images/t_prod_ls/w_1920,c_limit/a02abc51-e743-4808-ba6c-01580ac9fe00/air-max-95-big-bubble-sport-green-and-safety-orange-ir1944-102-release-date.jpg"
+                    }
+                }
+            }
+        },
+        "resourceType": "publishedContent"
+    },
+    "productInfo": [
+        {
+            "merchProduct": {
+                "id": "19c27397-21f5-5324-8e34-8e507d487fef",
+                "snapshotId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                "modificationDate": "2026-06-29T22:02:12.345Z",
+                "status": "ACTIVE",
+                "merchGroup": "US",
+                "styleCode": "IR1944",
+                "colorCode": "102",
+                "styleColor": "IR1944-102",
+                "pid": "1015964709",
+                "catalogId": "4df678da-3a27-40ce-af94-57b3f4bc9823",
+                "labelName": "AIR MAX 95 BIG BUBBLE QS 2",
+                "brand": "Nike",
+                "channels": [
+                    "Nike Store Experiences",
+                    "SNKRS"
+                ],
+                "consumerChannels": [
+                    {
+                        "id": "16134d36-74f2-11ea-bc55-00242ac13000",
+                        "resourceType": "globalization/consumer_channels"
+                    },
+                    {
+                        "id": "008be467-6c78-4079-94f0-70e2d6cc4003",
+                        "resourceType": "globalization/consumer_channels"
+                    }
+                ],
+                "legacyCatalogIds": [],
+                "genders": [
+                    "MEN"
+                ],
+                "sizeConverterId": "abea47ba-2414-3ed1-ab7d-8fbf2c740e0d",
+                "sizeGuideId": "a89e8724-0703-4f21-a8d9-e8975c1056ab",
+                "valueAddedServices": [],
+                "sportTags": [
+                    "Lifestyle"
+                ],
+                "classificationConcepts": [],
+                "taxonomyAttributes": [
+                    {
+                        "resourceType": "merch/taxonomy_attributes",
+                        "ids": [
+                            "f3e53c71-c423-401a-98d8-58ab7c5ead07",
+                            "fc4bc2bc-78b9-4086-9786-07330feaf065",
+                            "292efae5-2d9a-44a3-a529-cda684a47c44",
+                            "db5ef933-d71d-4532-abfd-9303c2c43926",
+                            "6631b5c3-937a-4174-942e-3ab3c5b16642",
+                            "05392778-fff6-4fa0-a375-2506d27f009e",
+                            "5ddfb803-2f11-4265-84b2-f7f450f0b697",
+                            "758f6b44-e5a7-46be-b288-bac9c3ebe83f",
+                            "d3c9a610-cfd2-42bb-95d1-15fd6e2f8283",
+                            "86100864-8775-456d-9647-0bb7d36da3ac",
+                            "10f9af5a-58d2-480a-a72d-5a65bd374850",
+                            "527f2d29-89bd-422d-a53a-cdb52784a8a9",
+                            "6de391eb-ab3d-4625-a5e7-d537e87f2bfa",
+                            "244ef9d2-4a84-4569-9541-bb98118cda7f",
+                            "da4bb991-8c0c-4ce3-bf3d-46dd3ffb0c01",
+                            "9e5e6948-8820-4a24-a4d3-01cdb5dc8291",
+                            "abb0cf06-d7c2-41b7-97ba-c6d5ef5f43ed",
+                            "63b97c64-c4e8-4ba2-8e2e-0814e6eaf9b7",
+                            "6e7e4809-fccb-4e82-8a7b-047125398076",
+                            "193af413-39b0-4d7e-ae34-558821381d3f",
+                            "e9266a2a-2ed2-4e6b-a602-5a3bae7475bb",
+                            "0f64ecc7-d624-4e91-b171-b83a03dd8550",
+                            "b5cd158b-b105-490c-b777-652943e742b0",
+                            "d2a8e032-cab9-4cc3-a25c-2fef22879590",
+                            "37a4f06f-eb0e-4ef0-8926-629ebc55ba14",
+                            "16633190-45e5-4830-a068-232ac7aea82c"
+                        ]
+                    }
+                ],
+                "commerceCountryInclusions": [],
+                "commerceCountryExclusions": [],
+                "abTestValues": [],
+                "productRollup": {
+                    "type": "Standard",
+                    "key": "NjoRdmPR"
+                },
+                "quantityLimit": 1,
+                "styleType": "INLINE",
+                "productType": "FOOTWEAR",
+                "publishType": "LAUNCH",
+                "mainColor": true,
+                "isAttributionApproved": true,
+                "isAppleWatch": false,
+                "exclusiveAccess": false,
+                "preOrder": false,
+                "hardLaunch": true,
+                "hidePayment": false,
+                "hideFromCSR": true,
+                "hideFromSearch": false,
+                "commercePublishDate": "2026-07-11T00:00:00.000Z",
+                "commerceStartDate": "2027-06-29T22:23:09.000Z",
+                "inventoryOverride": false,
+                "inventoryShareOff": false,
+                "softLaunchDate": "2026-06-29T22:00:00.000Z",
+                "notifyMeIndicator": false,
+                "isPromoExclusionMessage": false,
+                "limitRetailExperience": [
+                    {
+                        "value": "Scan to Learn",
+                        "disabledStoreOfferingCodes": [
+                            "931",
+                            "956",
+                            "1007"
+                        ]
+                    },
+                    {
+                        "value": "Scan to Try",
+                        "disabledStoreOfferingCodes": [
+                            "954",
+                            "932",
+                            "1175"
+                        ]
+                    },
+                    {
+                        "value": "Nike App Self-Checkout",
+                        "disabledStoreOfferingCodes": [
+                            "976"
+                        ]
+                    }
+                ],
+                "resourceType": "merchProduct",
+                "links": {
+                    "self": {
+                        "ref": "/merch/products/v2/19c27397-21f5-5324-8e34-8e507d487fef"
+                    }
+                },
+                "isCustomsApproved": false
+            },
+            "merchPrice": {
+                "id": "3f35c48a-cb89-56cd-9863-6cb5e102f9c4",
+                "snapshotId": "a24a6ea4-ce75-4665-a070-001782770532",
+                "productId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                "parentId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                "parentType": "merchProduct",
+                "modificationDate": "2026-06-29T22:02:12.345Z",
+                "country": "US",
+                "msrp": 200,
+                "fullPrice": 200,
+                "currentPrice": 200,
+                "currency": "USD",
+                "discounted": false,
+                "promoInclusions": [],
+                "promoExclusions": [
+                    "FALSE"
+                ],
+                "resourceType": "merchPrice",
+                "links": {
+                    "self": {
+                        "ref": "/merch/prices/v2/3f35c48a-cb89-56cd-9863-6cb5e102f9c4"
+                    }
+                }
+            },
+            "availability": {
+                "id": "19c27397-21f5-5324-8e34-8e507d487fef",
+                "productId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                "resourceType": "availableProducts",
+                "available": true
+            },
+            "launchView": {
+                "id": "991e5add-422e-33ca-89f7-5e10cd25fe6f",
+                "resourceType": "launchview",
+                "productId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                "method": "LEO",
+                "paymentMethod": "PREPAY",
+                "startEntryDate": "2026-07-11T14:00:00.000Z",
+                "links": {
+                    "self": {
+                        "ref": "/launch/launch_views/v2/991e5add-422e-33ca-89f7-5e10cd25fe6f"
+                    }
+                }
+            },
+            "productContent": {
+                "globalPid": "1015964709",
+                "langLocale": "en_US",
+                "colorDescription": "Sail/Total Orange/Sport Green/Metallic Silver",
+                "slug": "air-max-95-big-bubble-mens-shoes-NjoRdmPR",
+                "fullTitle": "Nike Air Max 95 Big Bubble Men's Shoes",
+                "title": "Nike Air Max 95 Big Bubble",
+                "subtitle": "Men's Shoes",
+                "descriptionHeading": "Benefits",
+                "description": "<div class=\"pi-tier3\"><div class=\"pi-pdpmainbody\"><p><b>&nbsp;</b></p><br><p>Since its debut, the AM95 has been the flyest way to get around, even if you're just strolling down to the corner store for a quick snack.</p><br><p><b>Benefits</b></p><ul><li>Textile and leather create a layered look built to last.</li><li>Visible Max Air cushioning provides lightweight cushioning.</li><li>Flex grooves in the midsole/outsole let you move freely.</li></ul></div></div>",
+                "techSpec": "",
+                "manufacturingCountriesOfOrigin": [],
+                "colors": [
+                    {
+                        "type": "SIMPLE",
+                        "name": "White",
+                        "hex": "F0F4FF"
+                    },
+                    {
+                        "type": "PRIMARY",
+                        "name": "Sail",
+                        "hex": "F4F1E6"
+                    },
+                    {
+                        "type": "SECONDARY",
+                        "name": "Total Orange",
+                        "hex": "FF7533"
+                    },
+                    {
+                        "type": "TERTIARY",
+                        "name": "Sport Green",
+                        "hex": "265139"
+                    },
+                    {
+                        "type": "LOGO",
+                        "name": "Metallic Silver",
+                        "hex": "9A9B9D"
+                    }
+                ],
+                "bestFor": [],
+                "athletes": [],
+                "widths": []
+            },
+            "skus": [
+                {
+                    "id": "214c08bb-2b15-514b-aa03-337c6da11955",
+                    "snapshotId": "214c08bb-2b15-514b-aa03-337c6da11955",
+                    "productId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                    "parentId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "514b797b-1993-3b86-b10a-89a8295f4d25",
+                    "modificationDate": "2026-06-29T22:02:12.345Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "1006697269",
+                    "gtin": "00198964116452",
+                    "nikeSize": "3.5",
+                    "sizeConversionId": "228e2ef4-2666-3c82-a26e-d5ce14eed6aa",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 3.5 / W 5",
+                            "taxInfo": {}
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/214c08bb-2b15-514b-aa03-337c6da11955?country=US&language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "3b96b328-fb7f-5a3f-a5c0-c5e013125e18",
+                    "snapshotId": "3b96b328-fb7f-5a3f-a5c0-c5e013125e18",
+                    "productId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                    "parentId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "75384500-db3a-328c-b865-b4f9a4d2912e",
+                    "modificationDate": "2026-06-29T22:02:12.345Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "1006700413",
+                    "gtin": "00198964048791",
+                    "nikeSize": "4",
+                    "sizeConversionId": "632af0e8-c475-31e8-9844-06d32ed81a7e",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 4 / W 5.5",
+                            "taxInfo": {}
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/3b96b328-fb7f-5a3f-a5c0-c5e013125e18?country=US&language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "6d2da2eb-128b-57ee-86a8-62f69463bdd0",
+                    "snapshotId": "6d2da2eb-128b-57ee-86a8-62f69463bdd0",
+                    "productId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                    "parentId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "614648c2-c88b-36a4-a5b5-5253ee9a8445",
+                    "modificationDate": "2026-06-29T22:02:12.345Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "1006700865",
+                    "gtin": "00198964195815",
+                    "nikeSize": "4.5",
+                    "sizeConversionId": "cd1a7ebe-d3f5-38a6-91c3-11204bb9bf36",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 4.5 / W 6",
+                            "taxInfo": {}
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/6d2da2eb-128b-57ee-86a8-62f69463bdd0?country=US&language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "bf5593cd-bc39-5f92-aa28-1d6f0a423ade",
+                    "snapshotId": "bf5593cd-bc39-5f92-aa28-1d6f0a423ade",
+                    "productId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                    "parentId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "96ba34b3-e075-313c-961b-b9fe644f82f3",
+                    "modificationDate": "2026-06-29T22:02:12.345Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "1006695131",
+                    "gtin": "00198964073465",
+                    "nikeSize": "5",
+                    "sizeConversionId": "14656d89-985b-3f7a-9c4d-0b800fc082f4",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 5 / W 6.5",
+                            "taxInfo": {}
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/bf5593cd-bc39-5f92-aa28-1d6f0a423ade?country=US&language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "4cb2037e-ecc7-59b1-af97-8a3a9d390dbd",
+                    "snapshotId": "4cb2037e-ecc7-59b1-af97-8a3a9d390dbd",
+                    "productId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                    "parentId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "77b43be6-c854-3b06-a91f-8992fbfc5154",
+                    "modificationDate": "2026-06-29T22:02:12.345Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "1006695716",
+                    "gtin": "00198964085697",
+                    "nikeSize": "5.5",
+                    "sizeConversionId": "c9e7dcc3-4306-3b50-90f8-7b2f60952873",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 5.5 / W 7",
+                            "taxInfo": {}
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/4cb2037e-ecc7-59b1-af97-8a3a9d390dbd?country=US&language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "d7942c0e-a0c7-56ad-b5ab-2549f56a6bee",
+                    "snapshotId": "d7942c0e-a0c7-56ad-b5ab-2549f56a6bee",
+                    "productId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                    "parentId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "59eb1736-a2b8-3cb5-ba23-4e9cca7c9356",
+                    "modificationDate": "2026-06-29T22:02:12.345Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "1006701541",
+                    "gtin": "00198964117114",
+                    "nikeSize": "6",
+                    "sizeConversionId": "856c7c6e-9ef9-3a30-a251-c46f5b9522da",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 6 / W 7.5",
+                            "taxInfo": {}
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/d7942c0e-a0c7-56ad-b5ab-2549f56a6bee?country=US&language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "c9b4e1f1-bff6-5e91-b9dc-f67e34b3d5af",
+                    "snapshotId": "c9b4e1f1-bff6-5e91-b9dc-f67e34b3d5af",
+                    "productId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                    "parentId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "2501373c-672d-3671-b03a-8260d26fa3e6",
+                    "modificationDate": "2026-06-29T22:02:12.345Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "1006696469",
+                    "gtin": "00198964068287",
+                    "nikeSize": "6.5",
+                    "sizeConversionId": "dcffb0b5-5ecd-3f1f-b5e6-bd205cd21cc7",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 6.5 / W 8",
+                            "taxInfo": {}
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/c9b4e1f1-bff6-5e91-b9dc-f67e34b3d5af?country=US&language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "8a77a6e2-f0e8-5a4a-8235-cc5f68a7a0ef",
+                    "snapshotId": "8a77a6e2-f0e8-5a4a-8235-cc5f68a7a0ef",
+                    "productId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                    "parentId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "d0f02f4e-b920-3d64-8ed5-e7cf4587fcbb",
+                    "modificationDate": "2026-06-29T22:02:12.345Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "1006709289",
+                    "gtin": "00198964158407",
+                    "nikeSize": "7",
+                    "sizeConversionId": "c6709307-0293-31bb-93a5-25dc36fac4fa",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 7 / W 8.5",
+                            "taxInfo": {}
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/8a77a6e2-f0e8-5a4a-8235-cc5f68a7a0ef?country=US&language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "4ab2518a-05ad-5871-9443-78b5b190bab9",
+                    "snapshotId": "4ab2518a-05ad-5871-9443-78b5b190bab9",
+                    "productId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                    "parentId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "421c1299-b32b-3b91-9329-c3ccd1a99ce4",
+                    "modificationDate": "2026-06-29T22:02:12.345Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "1006705663",
+                    "gtin": "00198964091391",
+                    "nikeSize": "7.5",
+                    "sizeConversionId": "5c357820-4cff-37a6-b815-984753484f06",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 7.5 / W 9",
+                            "taxInfo": {}
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/4ab2518a-05ad-5871-9443-78b5b190bab9?country=US&language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "19280cb0-9510-526a-b80a-1cbf37df899a",
+                    "snapshotId": "19280cb0-9510-526a-b80a-1cbf37df899a",
+                    "productId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                    "parentId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "86d70a1b-42b7-3739-87c8-bb5fe27e00fc",
+                    "modificationDate": "2026-06-29T22:02:12.345Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "1006694924",
+                    "gtin": "00198964141645",
+                    "nikeSize": "8",
+                    "sizeConversionId": "cb09fd63-b7c0-3aef-a9a6-040218d4b4e4",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 8 / W 9.5",
+                            "taxInfo": {}
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/19280cb0-9510-526a-b80a-1cbf37df899a?country=US&language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "7e9bf877-1f86-562c-989b-789885000b07",
+                    "snapshotId": "7e9bf877-1f86-562c-989b-789885000b07",
+                    "productId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                    "parentId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "f38396ae-a571-31e8-a000-325ea6ebeaf8",
+                    "modificationDate": "2026-06-29T22:02:12.345Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "1006693608",
+                    "gtin": "00198964159817",
+                    "nikeSize": "8.5",
+                    "sizeConversionId": "11873a21-5755-3ab1-9d43-43154f0866f6",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 8.5 / W 10",
+                            "taxInfo": {}
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/7e9bf877-1f86-562c-989b-789885000b07?country=US&language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "717604b3-9be6-5948-ae66-1040110fbfa1",
+                    "snapshotId": "717604b3-9be6-5948-ae66-1040110fbfa1",
+                    "productId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                    "parentId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "75a04936-8005-3507-acb3-60cb8c781365",
+                    "modificationDate": "2026-06-29T22:02:12.345Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "1006698840",
+                    "gtin": "00198964099649",
+                    "nikeSize": "9",
+                    "sizeConversionId": "12dfa6f8-bf97-333f-bf8a-e7e2b4b03917",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 9 / W 10.5",
+                            "taxInfo": {}
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/717604b3-9be6-5948-ae66-1040110fbfa1?country=US&language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "7f56c32e-8c8e-520a-b2f5-74c8672e6c37",
+                    "snapshotId": "7f56c32e-8c8e-520a-b2f5-74c8672e6c37",
+                    "productId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                    "parentId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "06957dcc-7e1d-30e2-a0d0-d301f6496405",
+                    "modificationDate": "2026-06-29T22:02:12.345Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "1006703556",
+                    "gtin": "00198964164057",
+                    "nikeSize": "9.5",
+                    "sizeConversionId": "4a528b33-a71b-342c-baa2-616a89985fef",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 9.5 / W 11",
+                            "taxInfo": {}
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/7f56c32e-8c8e-520a-b2f5-74c8672e6c37?country=US&language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "8bcdfad8-9335-5485-b15f-e2b0a2c1acfa",
+                    "snapshotId": "8bcdfad8-9335-5485-b15f-e2b0a2c1acfa",
+                    "productId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                    "parentId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "777df8fc-f044-3ac3-bc97-ccb5b681b41c",
+                    "modificationDate": "2026-06-29T22:02:12.345Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "1006703981",
+                    "gtin": "00198964071256",
+                    "nikeSize": "10",
+                    "sizeConversionId": "37734db6-efb3-39b9-bd03-fe43d8f87daf",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 10 / W 11.5",
+                            "taxInfo": {}
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/8bcdfad8-9335-5485-b15f-e2b0a2c1acfa?country=US&language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "08db2e8a-0ecd-5bb4-8b13-a9fade5b7e57",
+                    "snapshotId": "08db2e8a-0ecd-5bb4-8b13-a9fade5b7e57",
+                    "productId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                    "parentId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "7bfa3273-2c26-34b0-90d5-ed28cd22ba3f",
+                    "modificationDate": "2026-06-29T22:02:12.345Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "1006700923",
+                    "gtin": "00198964088476",
+                    "nikeSize": "10.5",
+                    "sizeConversionId": "66fd0467-2345-3d11-9c0e-17101482a5a9",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 10.5 / W 12",
+                            "taxInfo": {}
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/08db2e8a-0ecd-5bb4-8b13-a9fade5b7e57?country=US&language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "48d10672-c5e7-515b-af74-a6f57034cfe1",
+                    "snapshotId": "48d10672-c5e7-515b-af74-a6f57034cfe1",
+                    "productId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                    "parentId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "3efca83a-7774-3a33-b901-d0d1bc506318",
+                    "modificationDate": "2026-06-29T22:02:12.345Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "1006692533",
+                    "gtin": "00198964103933",
+                    "nikeSize": "11",
+                    "sizeConversionId": "a69a29b5-4dbd-3df9-a010-5d71b2a24682",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 11 / W 12.5",
+                            "taxInfo": {}
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/48d10672-c5e7-515b-af74-a6f57034cfe1?country=US&language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "ab8a12fe-cc6b-5fd6-980c-a7915410c4fa",
+                    "snapshotId": "ab8a12fe-cc6b-5fd6-980c-a7915410c4fa",
+                    "productId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                    "parentId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "2ea6f27b-de7e-31ec-a7be-8498988f9c4f",
+                    "modificationDate": "2026-06-29T22:02:12.345Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "1006707760",
+                    "gtin": "00198964054860",
+                    "nikeSize": "11.5",
+                    "sizeConversionId": "0ba21a73-e751-3354-b408-42e35d56e50b",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 11.5 / 13",
+                            "taxInfo": {}
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/ab8a12fe-cc6b-5fd6-980c-a7915410c4fa?country=US&language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "c39f7473-3a8c-5bb8-af15-95d1dfd9fd22",
+                    "snapshotId": "c39f7473-3a8c-5bb8-af15-95d1dfd9fd22",
+                    "productId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                    "parentId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "11ccc8e8-3e8a-3768-889c-7507ee8f9f05",
+                    "modificationDate": "2026-06-29T22:02:12.345Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "1006694406",
+                    "gtin": "00198964171437",
+                    "nikeSize": "12",
+                    "sizeConversionId": "25681ef3-6dec-3029-98fc-98da0a431aac",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 12 / W 13.5",
+                            "taxInfo": {}
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/c39f7473-3a8c-5bb8-af15-95d1dfd9fd22?country=US&language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "2416aa6a-3489-5d26-bddd-e10576c0cc0c",
+                    "snapshotId": "2416aa6a-3489-5d26-bddd-e10576c0cc0c",
+                    "productId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                    "parentId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "00c90821-d053-3ff1-8e96-30f09fd1e232",
+                    "modificationDate": "2026-06-29T22:02:12.345Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "1006701999",
+                    "gtin": "00198964217968",
+                    "nikeSize": "12.5",
+                    "sizeConversionId": "f5c24c6d-bcb8-31ec-a177-b8d75e902d1b",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 12.5 / W 14",
+                            "taxInfo": {}
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/2416aa6a-3489-5d26-bddd-e10576c0cc0c?country=US&language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "c35ff9b6-2212-51e3-84b2-7573a616d2a2",
+                    "snapshotId": "c35ff9b6-2212-51e3-84b2-7573a616d2a2",
+                    "productId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                    "parentId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "fd00700a-663f-3721-869a-566613cf7279",
+                    "modificationDate": "2026-06-29T22:02:12.345Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "1006697096",
+                    "gtin": "00198964102530",
+                    "nikeSize": "13",
+                    "sizeConversionId": "d984f2d7-84d4-37c9-b860-1c89d499358f",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 13 / W 14.5",
+                            "taxInfo": {}
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/c35ff9b6-2212-51e3-84b2-7573a616d2a2?country=US&language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "059e5641-45e6-5c02-96af-641d981d6148",
+                    "snapshotId": "059e5641-45e6-5c02-96af-641d981d6148",
+                    "productId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                    "parentId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "6cb9e5da-23fa-31ce-b14f-3f57f8a6bda3",
+                    "modificationDate": "2026-06-29T22:02:12.345Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "1006702400",
+                    "gtin": "00198964161858",
+                    "nikeSize": "14",
+                    "sizeConversionId": "9f483c28-b828-327b-9e6b-8b12441a1b16",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 14 / W 15.5",
+                            "taxInfo": {}
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/059e5641-45e6-5c02-96af-641d981d6148?country=US&language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "bfdd30f5-9854-5bb6-98fd-48d17fb35e93",
+                    "snapshotId": "bfdd30f5-9854-5bb6-98fd-48d17fb35e93",
+                    "productId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                    "parentId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "b39845f9-ee31-3480-9da3-189915109bc6",
+                    "modificationDate": "2026-06-29T22:02:12.345Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "1006691888",
+                    "gtin": "00198964081224",
+                    "nikeSize": "15",
+                    "sizeConversionId": "97ea50fe-970f-3816-8ce6-90e79890d2f7",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 15 / W 16.5",
+                            "taxInfo": {}
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/bfdd30f5-9854-5bb6-98fd-48d17fb35e93?country=US&language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "968b9ed9-7bc0-556f-82ec-d258d446b953",
+                    "snapshotId": "968b9ed9-7bc0-556f-82ec-d258d446b953",
+                    "productId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                    "parentId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "a8a02f64-6ce4-3542-8960-d57816e84ae1",
+                    "modificationDate": "2026-06-29T22:02:12.345Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "1006708547",
+                    "gtin": "00198964209895",
+                    "nikeSize": "16",
+                    "sizeConversionId": "2397c175-cf5b-3a6c-91ea-72b19973a550",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 16 / W 17.5",
+                            "taxInfo": {}
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/968b9ed9-7bc0-556f-82ec-d258d446b953?country=US&language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "cb947f0d-9e7a-5d05-ac1a-da816b1bf8dc",
+                    "snapshotId": "cb947f0d-9e7a-5d05-ac1a-da816b1bf8dc",
+                    "productId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                    "parentId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "17f8da46-a6df-3d97-b8fa-617f762f711c",
+                    "modificationDate": "2026-06-29T22:02:12.345Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "1006696420",
+                    "gtin": "00198964072826",
+                    "nikeSize": "17",
+                    "sizeConversionId": "60fe2e14-d325-365f-9ca2-9a5c2c77fda9",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 17 / W 18.5",
+                            "taxInfo": {}
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/cb947f0d-9e7a-5d05-ac1a-da816b1bf8dc?country=US&language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "a50c08a7-9935-52c5-8481-4c74f6adad29",
+                    "snapshotId": "a50c08a7-9935-52c5-8481-4c74f6adad29",
+                    "productId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                    "parentId": "19c27397-21f5-5324-8e34-8e507d487fef",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "de7f1fa1-5349-3d6e-b822-96250e39504a",
+                    "modificationDate": "2026-06-29T22:02:12.345Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "1006698266",
+                    "gtin": "00198964174773",
+                    "nikeSize": "18",
+                    "sizeConversionId": "837857d6-5b87-3a76-b5ab-2ee55a7082e7",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 18 / W 19.5",
+                            "taxInfo": {}
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/a50c08a7-9935-52c5-8481-4c74f6adad29?country=US&language=en"
+                        }
+                    }
+                }
+            ],
+            "availableGtins": [
+                {
+                    "gtin": "00198964102530",
+                    "method": "SHIP",
+                    "level": "OOS",
+                    "available": false,
+                    "styleColor": "IR1944-102",
+                    "styleType": "INLINE",
+                    "locationId": {
+                        "id": "US",
+                        "type": "merchGroup"
+                    }
+                },
+                {
+                    "gtin": "00198964103933",
+                    "method": "SHIP",
+                    "level": "OOS",
+                    "available": false,
+                    "styleColor": "IR1944-102",
+                    "styleType": "INLINE",
+                    "locationId": {
+                        "id": "US",
+                        "type": "merchGroup"
+                    }
+                },
+                {
+                    "gtin": "00198964141645",
+                    "method": "SHIP",
+                    "level": "OOS",
+                    "available": false,
+                    "styleColor": "IR1944-102",
+                    "styleType": "INLINE",
+                    "locationId": {
+                        "id": "US",
+                        "type": "merchGroup"
+                    }
+                },
+                {
+                    "gtin": "00198964159817",
+                    "method": "SHIP",
+                    "level": "OOS",
+                    "available": false,
+                    "styleColor": "IR1944-102",
+                    "styleType": "INLINE",
+                    "locationId": {
+                        "id": "US",
+                        "type": "merchGroup"
+                    }
+                },
+                {
+                    "gtin": "00198964161858",
+                    "method": "SHIP",
+                    "level": "OOS",
+                    "available": false,
+                    "styleColor": "IR1944-102",
+                    "styleType": "INLINE",
+                    "locationId": {
+                        "id": "US",
+                        "type": "merchGroup"
+                    }
+                },
+                {
+                    "gtin": "00198964164057",
+                    "method": "SHIP",
+                    "level": "OOS",
+                    "available": false,
+                    "styleColor": "IR1944-102",
+                    "styleType": "INLINE",
+                    "locationId": {
+                        "id": "US",
+                        "type": "merchGroup"
+                    }
+                },
+                {
+                    "gtin": "00198964171437",
+                    "method": "SHIP",
+                    "level": "OOS",
+                    "available": false,
+                    "styleColor": "IR1944-102",
+                    "styleType": "INLINE",
+                    "locationId": {
+                        "id": "US",
+                        "type": "merchGroup"
+                    }
+                },
+                {
+                    "gtin": "00198964088476",
+                    "method": "SHIP",
+                    "level": "LOW",
+                    "available": true,
+                    "styleColor": "IR1944-102",
+                    "styleType": "INLINE",
+                    "locationId": {
+                        "id": "US",
+                        "type": "merchGroup"
+                    }
+                }
+            ],
+            "socialInterest": {
+                "id": "e6dc606b-51fc-3cfc-8b62-bab1c0c3a82c"
+            }
+        }
+    ],
+    "search": {
+        "conceptIds": [
+            "f3e53c71-c423-401a-98d8-58ab7c5ead07",
+            "fc4bc2bc-78b9-4086-9786-07330feaf065",
+            "292efae5-2d9a-44a3-a529-cda684a47c44",
+            "db5ef933-d71d-4532-abfd-9303c2c43926",
+            "6631b5c3-937a-4174-942e-3ab3c5b16642",
+            "05392778-fff6-4fa0-a375-2506d27f009e",
+            "5ddfb803-2f11-4265-84b2-f7f450f0b697",
+            "758f6b44-e5a7-46be-b288-bac9c3ebe83f",
+            "2d375fdb-39a1-4982-842f-3f4a357ec32b",
+            "d3c9a610-cfd2-42bb-95d1-15fd6e2f8283",
+            "67063381-90eb-4763-8f87-acc30b392f38",
+            "86100864-8775-456d-9647-0bb7d36da3ac",
+            "10f9af5a-58d2-480a-a72d-5a65bd374850",
+            "527f2d29-89bd-422d-a53a-cdb52784a8a9",
+            "6de391eb-ab3d-4625-a5e7-d537e87f2bfa",
+            "244ef9d2-4a84-4569-9541-bb98118cda7f",
+            "da4bb991-8c0c-4ce3-bf3d-46dd3ffb0c01",
+            "9e5e6948-8820-4a24-a4d3-01cdb5dc8291",
+            "abb0cf06-d7c2-41b7-97ba-c6d5ef5f43ed",
+            "63b97c64-c4e8-4ba2-8e2e-0814e6eaf9b7",
+            "6e7e4809-fccb-4e82-8a7b-047125398076",
+            "66fd0467-2345-3d11-9c0e-17101482a5a9",
+            "193af413-39b0-4d7e-ae34-558821381d3f",
+            "e9266a2a-2ed2-4e6b-a602-5a3bae7475bb",
+            "0f64ecc7-d624-4e91-b171-b83a03dd8550",
+            "b5cd158b-b105-490c-b777-652943e742b0",
+            "d2a8e032-cab9-4cc3-a25c-2fef22879590",
+            "37a4f06f-eb0e-4ef0-8926-629ebc55ba14",
+            "16633190-45e5-4830-a068-232ac7aea82c"
+        ]
+    },
+    "collectionTermIds": [],
+    "resourceType": "thread",
+    "links": {
+        "self": {
+            "ref": "/product_feed/threads/v2/41ed982b-f0cf-4d28-a9a2-d1ccbd76dfd3?channelId=010794e5-35fe-4e32-aaff-cd2c74f89d61&marketplace=US&language=en"
+        }
+    },
+    "collectionsv2": {
+        "groupedCollectionTermIds": {},
+        "collectionTermIds": []
+    }
+}

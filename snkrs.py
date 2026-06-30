@@ -56,7 +56,11 @@ class SNKRSMonitor:
             else result["titleName"]
         )
 
-        result["slug"] = product["publishedContent"]["properties"]["seo"]["slug"]
+        try:
+            result["slug"] = product["publishedContent"]["properties"]["seo"]["slug"]
+        except KeyError:
+            result["slug"] = product["productInfo"][0]["productContent"]["slug"]
+
         result["url"] = f"https://www.nike.com/launch/t/{result["slug"]}"
 
         result["priceValue"] = product["productInfo"][0]["merchPrice"]["currentPrice"]
